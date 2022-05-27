@@ -11,6 +11,23 @@ https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/01.Introduction
 I dualboot Win 10 and Manjaro Linux
 SEND SCREENSHOT OF PROOF
 
+## Regex
+Puzzle #1
+![image](https://user-images.githubusercontent.com/97559953/170738577-0d054f41-5293-4829-80ac-705529584b44.png)
+Puzzle #2
+![image](https://user-images.githubusercontent.com/97559953/170739475-d181bc16-946c-4aca-a829-4844d630cc31.png)
+Puzzle #3
+![image](https://user-images.githubusercontent.com/97559953/170740170-9c8dc41c-cdac-45ba-9c4a-64c81a6cce08.png)
+Puzzle #4
+![image](https://user-images.githubusercontent.com/97559953/170740235-18ff94c9-22b9-42f3-910b-630b9196b42a.png)
+Puzzle #5
+![image](https://user-images.githubusercontent.com/97559953/170740353-a5847f31-3123-41cc-81ed-0bc6644c602c.png)
+Puzzle #6
+![image](https://user-images.githubusercontent.com/97559953/170741512-53b6d3ac-ad0b-4408-937d-f55802a8d4e1.png)
+Puzzle #7
+![image](https://user-images.githubusercontent.com/97559953/170741577-94ca4c35-cbdf-4dba-9da3-0d34cfe056dd.png)
+
+
 ## Blockly
 Maze 10
 ![image](https://user-images.githubusercontent.com/97559953/170731306-0d6da900-0a4b-49b8-ae21-4b4e685a56d9.png)
