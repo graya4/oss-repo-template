@@ -2,8 +2,8 @@
 ## Akeyl Gray
 
 ## Bio
-email - graya4@rpi.edu
-discord - akeyl#0927
+email - graya4@rpi.edu\n
+discord - akeyl#0927\n
 image.png
 
 ## Lab Reports
