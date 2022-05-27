@@ -9,7 +9,7 @@ https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/01.Introduction
 
 ## Linux Proof
 I dualboot Win 10 and Manjaro Linux
-SEND SCREENSHOT OF PROOF
+![image](https://user-images.githubusercontent.com/97559953/170771547-dac865fc-7d1e-4d7b-b77f-81d66d473d75.png)
 
 ## Regex
 Puzzle #1
