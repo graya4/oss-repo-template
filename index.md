@@ -2,7 +2,9 @@
 ## Akeyl Gray
 
 ## Bio
-(( Put a little bit about yourself here! Also include a photo. ))
+email - graya4@rpi.edu
+discord - akeyl#0927
+image.png
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
