@@ -11,6 +11,17 @@ https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/01.Introduction
 I dualboot Win 10 and Manjaro Linux
 ![image](https://user-images.githubusercontent.com/97559953/170771547-dac865fc-7d1e-4d7b-b77f-81d66d473d75.png)
 
+## Regex Crosswords
+Puzzle #1
+![image](https://user-images.githubusercontent.com/97559953/171054139-000be4cb-d735-47b9-8f3a-a9130045933e.png)
+Puzzle #2
+![image](https://user-images.githubusercontent.com/97559953/171054176-435ba318-3e19-4478-a9d4-d53ff5dbd877.png)
+Puzzle #3
+![image](https://user-images.githubusercontent.com/97559953/171054217-00e27a37-97e2-48d8-86d3-8b9fcada884f.png)
+Puzzle #4
+![image](https://user-images.githubusercontent.com/97559953/171054255-9b3843ec-6767-4c0c-aac2-446d0d4c14cb.png)
+
+
 ## Regex
 Puzzle #1
 ![image](https://user-images.githubusercontent.com/97559953/170738577-0d054f41-5293-4829-80ac-705529584b44.png)
