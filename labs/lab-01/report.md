@@ -8,8 +8,8 @@ https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/01.Introduction
 ## Reading Assignments (WIP)  
 
 ## Linux Proof
-I dualboot Win 10 and Manjaro Linux
-![image](https://user-images.githubusercontent.com/97559953/170771547-dac865fc-7d1e-4d7b-b77f-81d66d473d75.png)
+I dualboot Win 10 and Manjaro Linux (also there was so much that the screenshot couldnt get it all)
+![image](https://user-images.githubusercontent.com/97559953/171055002-973f2df5-9a60-460e-9a8d-692b30bfb49e.png)
 
 ## Regex Crosswords
 Puzzle #1
