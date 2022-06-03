@@ -24,3 +24,5 @@ Spoon-Knife-Fork: https://github.com/graya4/Spoon-Knife-Akeyl
 
 ## Git Tag Proof (i messed up tagging)
 ![part3 git tag proof](https://user-images.githubusercontent.com/97559953/171894198-09980a60-6623-4be5-aa84-5e2b37e0d66e.png)
+
+Link to OSSProjectIdeas fork: https://github.com/graya4/OSSProjectIdeas-Akeyl
