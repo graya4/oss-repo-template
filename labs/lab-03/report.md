@@ -26,6 +26,17 @@ First Commit: 1-22-2019
 Latest Commit: 4-17-2019  
 Current Branch: master  
 
+Gitstats  
+![gitstats_1](https://user-images.githubusercontent.com/97559953/173101329-4e420031-0883-4298-99df-7fcfc747628c.png)
+![gitstats_2](https://user-images.githubusercontent.com/97559953/173101336-ea9237ad-2b38-4b8b-bd20-1d38158f8786.png)
+![gitstats_3](https://user-images.githubusercontent.com/97559953/173101354-bf1497f4-85db-4e11-b8ed-dd6a62b38b09.png)
+
+
+Gource Proof  
+![gource_proof_akeyl](https://user-images.githubusercontent.com/97559953/173101250-116e7d40-207d-4301-b92e-ce9b23ffcd64.png)
+
+
+
 
 Aris  
 Contributers: 17  
