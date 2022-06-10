@@ -2,7 +2,11 @@
 ## Lab Link
 https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/03.DocumentationAndCommunity/Lab-DocumentationAndCommunity.md
 
-## Part 1
+## Part 1 - Documentation
+
+Formula 1 : $\sqrt{1 + 2\sqrt{1 + 3\sqrt{1 + 4\sqrt{1 + ...}}}}$
+
+Formula 2: $\sqrt{2}^{{{\sqrt{2}}^{\sqrt{2}}}^{\sqrt{2...}}}$
 
 
 
@@ -14,9 +18,7 @@ https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/03.Documentatio
 
 
 
-
-
-## Part 2
+## Part 2 - Community
 Clickbait Chrome Extension  
 https://github.com/kool814/clickbaitchromeextension  
  
