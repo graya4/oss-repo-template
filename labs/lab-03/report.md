@@ -4,10 +4,11 @@ https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/03.Documentatio
 
 ## Part 1 - Documentation
 
-Formula 1 : $\sqrt{1 + 2\sqrt{1 + 3\sqrt{1 + 4\sqrt{1 + ...}}}}$
+Formula 1: $\sqrt{1 + 2\sqrt{1 + 3\sqrt{1 + 4\sqrt{1 + ...}}}}$  
+Latex Text: \sqrt{1 + 2\sqrt{1 + 3\sqrt{1 + 4\sqrt{1 + ...}}}}
 
-Formula 2: $\sqrt{2}^{{{\sqrt{2}}^{\sqrt{2}}}^{\sqrt{2...}}}$
-
+Formula 2: $\sqrt{2}^{{{\sqrt{2}}^{\sqrt{2}}}^{\sqrt{2...}}}$  
+Latex Text: \sqrt{2}^{{{\sqrt{2}}^{\sqrt{2}}}^{\sqrt{2...}}}
 
 
 
