@@ -51,6 +51,10 @@ First commit:
 Current Branches:  
 Master, gh-pages, change-focus, update-dependencies-web-app, clippy-fix, Key_Palette, proof_generate_solver, Disjunctive_syllogism  
 
+Gource  
+![image](https://user-images.githubusercontent.com/97559953/173439897-1fae8845-2f4a-4d39-a72f-9ed25a37624c.png)
+
+
 
 Catan-AI project  
 https://github.com/justinchen673/Catan-AI  
@@ -65,6 +69,10 @@ Current branches:
         Empty_bot  
         CatanReasearch  
         Simple_Bot  
+
+Gource  
+![image](https://user-images.githubusercontent.com/97559953/173439799-88a3abb0-40f7-4944-89b3-9cc91d343edf.png)
+
 
 
 Tutorbase  
@@ -94,3 +102,27 @@ the current branches: * master
   remotes/origin/meetingcard-fixes  
   remotes/origin/saml-auth  
   remotes/origin/tutorpfpics  
+ 
+Gource  
+![image](https://user-images.githubusercontent.com/97559953/173439703-ead5c11f-c337-4190-9c7c-b791c0a16e67.png)
+
+
+
+Anagrams  
+gource for anagrams repo, Java anagram open source project:  
+1.  Number of contributors: 2  
+2.  Number of lines: 19,820  
+3.  First commit: (https://github.com/tdurkin18/Anagrams/commit/e305ea4d0119cf2f2c3bcbd2503ac0fee96438e9)  
+4.  Last commit: https://github.com/tdurkin18/Anagrams/commit/695e3ba8e9d68a1f824d8692d92e920e147edbf3  
+5.  5 branches: Master, Jakev1, sameletters, gameBoard, and correct  
+## Gitstats differences:  
+1. Number of contributors: 30  
+2. Number of lines: 3924  
+3. First commit: 7/30/2007   
+4. Last commit: 1/29/2019  
+5. Branches: Not shown  
+
+Gource  
+![image](https://user-images.githubusercontent.com/97559953/173440041-b9a1851b-7ecd-46b1-ad82-77481fd3090c.png)
+
+
