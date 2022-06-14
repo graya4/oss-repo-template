@@ -11,8 +11,16 @@ Formula 2: $\sqrt{2}^{{{\sqrt{2}}^{\sqrt{2}}}^{\sqrt{2...}}}$
 Latex Text: \sqrt{2}^{{{\sqrt{2}}^{\sqrt{2}}}^{\sqrt{2...}}}
 
 
+Formula 3: \begin{equation*}
+\begin{bmatrix}
+1 & -1 & 1 & 1\\
+1 & 1 & -1 & 1\\
+-1 & -1 & 1 & 1\\
+1 & 1 & 1 & 1
+\end{bmatrix}
+\end{equation*}
 
-
+![makelatex](https://user-images.githubusercontent.com/97559953/173468872-cbd4825c-50cf-40d2-bb24-ec2346c8dee3.png)
 
 
 
