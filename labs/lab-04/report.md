@@ -27,7 +27,7 @@ SailfishOS - SailfishOS is closed source in order to have it be as secure as pos
 
 ## Part 7
 
-
+https://github.com/aryash14/check-7
 
 
 ## Part 8
