@@ -3,22 +3,22 @@
 https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/09.Virtualization/Lab-Virtualization.md
 
 ## Example 00
-
-
+![check1](https://user-images.githubusercontent.com/97559953/180873174-6fbcd594-7922-45db-b711-c94a41ed6a9f.png)
 
 ## Example 01
-- It tells you what tests are being run by clicking on the site for each build.
-- It tells you exactly what the error was in which file as well as the exit conditions.
-- The dashboard is very clean and there are not any errors or warnings in sight.
-- My submission did not have any errors but it did have 4 warnings.  
-![check2proof](https://user-images.githubusercontent.com/97559953/179660959-b828a241-5556-416e-a322-24426ed066e6.png)
-![check2proof2](https://user-images.githubusercontent.com/97559953/179660967-5281c12d-440d-43c2-87de-c23b54eb8205.png)
+![check2 part 1](https://user-images.githubusercontent.com/97559953/180873207-cd08f954-1ea6-4769-a27c-fe6c50f60b47.png)
+![check2 part 2](https://user-images.githubusercontent.com/97559953/180873215-ad262bb4-601e-4d00-842f-0ef6ab63ea78.png)
 
 ## Example 02
-- In order to fix this error, you must revert the Copyright.txt file back to the way it was beforehand.
-![check3](https://user-images.githubusercontent.com/97559953/179660972-45de3710-bd7b-4abb-ba9e-1fd64680ec14.png)
+![check3](https://user-images.githubusercontent.com/97559953/180873227-e3720e82-4a89-4454-a292-f4f39bdcf063.png)
+
 
 ## Example 03
-https://github.com/graya4/lab8part4test
+![check4 part 1](https://user-images.githubusercontent.com/97559953/180873236-dbc23630-2645-4ceb-a3e3-88c94deebf03.png)
+![check4 part 2](https://user-images.githubusercontent.com/97559953/180873244-a68f42e3-08f8-4e96-8d0c-5acae50a5c89.png)
+![check 4 part 3](https://user-images.githubusercontent.com/97559953/180873259-86b08c57-1db7-4787-b112-7709759fce6a.png)
+
 
 ## Example 04
+For some reason, I couldn't get Node to update on Linux or on the Docker instance I was using. 
+![check 5](https://user-images.githubusercontent.com/97559953/180873268-da9383e2-933b-481d-b0c1-8ae9d92e4af2.png)
