@@ -15,7 +15,7 @@ https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/11.TensorFlow/L
 ![check2 part 7](https://user-images.githubusercontent.com/97559953/183540193-2f87e534-c2f2-4822-a80c-d0869d6cec88.png)
 
 ## Check 3
-In all of the tests that I did, the trained data rightfully showed that the image of the T-shirt was considered a Bag.
+In all of the tests that I did, the trained data rightfully showed that the image of the T-shirt was considered a Bag. I don't know why this kept happening, but no matter what I did to edit my model or my images, it kept becoming a bag.
 ![check3 test1](https://user-images.githubusercontent.com/97559953/183540202-be087438-3329-4977-a39b-5b32afc71d7f.png)
 ![check3 test2](https://user-images.githubusercontent.com/97559953/183542809-a828c2d4-7473-40c9-945d-eea4df44e164.png)
 ![check3 test3](https://user-images.githubusercontent.com/97559953/183542824-6443c5a7-35b9-406c-84b0-6b4aa9b6eadb.png)
