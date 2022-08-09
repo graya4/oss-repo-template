@@ -71,8 +71,17 @@ probability_model = tf.keras.Sequential([model,
                                          tf.keras.layers.Softmax()])
 
 predictions = probability_model.predict(test_images)
-img = Image.open("labs/lab-11/shirts/image 1 GRAY.png")
+img = Image.open("labs/lab-11/shirts/image 3 GRAY.png")
+img = ImageOps.grayscale(img)
+#print(img.shape)
+np.invert(img)
+img = np.array(img)
+img = img / 255.0
 img = (np.expand_dims(img,0))
-print(img.shape)
+#print(img.shape)
 predictions_single = probability_model.predict(img)
 print(predictions_single)
+
+plot_value_array(1, predictions_single[0], test_labels)
+_ = plt.xticks(range(10), class_names, rotation=45)
+plt.show()
